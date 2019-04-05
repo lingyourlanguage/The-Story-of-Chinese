@@ -177,134 +177,11 @@ There are endless avenues of interest that could have been pursued in more detai
 
 ---
 
-*This is the first article in a series on the gray area between languages and dialect. Stay tuned for the next part in the series, where we take a look at the complicated relationship between Hindi and Urdu.
+*This is the first article in a series on the gray area between languages and dialect. Stay tuned for the next part in the series, where we take a look at the complicated relationship between Hindi and Urdu.*
 
 Questions? Comments? Send them to lingyourlanguage@gmail.com. We look forward to your feedback!*
 
 
-
----
-
-## Notes
-
-  [^1]: The full story of the proceedings of the 1913 Conference on Unification of Pronunciation is told beautifully by S. Robert Ramsey (1987) in *The Languages of China.*
-
-  [^2]: Chen 2004: 7. The written form of this lingua franca was known as *jiăgŭwén.*
-
-  [^3]: In the *Analects*, Confucius refers to *yăyán* as “elegant speech”, which is now agreed by scholars to refer to the standard spoken Chinese of the time (Ping 2004: 7).
-
-  ^ [4]: In a way, the prestige of the Zhangzhou dialect was self-reinforcing. In the north, recently-formed non-Han states were quickly assimilating to Chinese culture and adopting the language due to its perceived prestige; in the south, elites from Luoyang moved to (what is now) Nanjing in a major migration during the Wei Jin period (220 – 589 CE) when Jin Yuandi (317-22 CE) brought his royal court to what is now Nanjing, and in so doing brought their dialect – and with it the prestige - and in this way spread it south of the Yangtze river. 
-
-  [^5]: Such governmental policies include the order during the Qin dynasty for 500,000 military colonists to fill up newly-conquered territory (Ramsey 1987: 31)
-
-  [^6]: All dialects of Chinese ultimately trace back to northern China geographically and middle Chinese linguistically, but in the southern dialects we find many archaic features that no longer exist in northern dialects. The more geographically-isolated southern Chinese communities spoke (and continue to speak) more conservative dialects, and we can find many traces of pre-Han south China in these dialects. For example, the further south one travels, the more tones one finds, probably as a result of tonal languages spoken before the Han arrived.
-
-A more interesting example is given in Ramsey (1987: 36ff). In Standard Mandarin, *gо̄ngjī* ‘rooster’ contains two parts: *gо̄ng* ‘male’ + *jī* ‘chicken’. This is the usual pattern: a modifier comes before the word that it modifies. However, in southern dialects we often find the opposite. In Cantonese, for example, the word for rooster is *kaikong*, composed of *kai* ‘chicken’ + *kong* ‘male’. The elements of the words are the same, but the order of composition is reversed; this same phenomenon can be found in many other words. What is striking about this is that the southern dialects appear to reveal a Tai language family substrate, where this pattern of word construction is the norm. Ramsey presents other interesting examples of the possible effects of non-Sinitic substrata on southern dialects but concludes with the warning that we must remember that “the Southern dialects are not ‘mixed languages,’ they are Chinese”. 
-
-  [^7]: Emperor Shi Huang Di’s (‘First Emperor’) is famous for the standardization of Chinese characters in an effort to introduce “common laws, weights and measures.” The standardized system was based off the highly-conservative standard of the far-western state of Qin. In the subsequent Han empire this system was codified in a dictionary, the *Shuо̄wēn Jiĕzì*. This system has been the basis of *kăishū*, the writing system, ever since (Ostler 2006: 138).
-
-  [^8]: After the Han period, during the Eastern Jin (317 – 420 CE) as well as Northern and Southern dynasties (420 – 589 CE), a creolization occurred between Chinese and the Turkic, Mongolic, and Manchu language speakers who dominated the heartland of China. Significant changes included (but were not limited to) relexification, morphological restructuring, and phonological shifts (Mair 2010a: 23).
-
-  [^9]: The *Qièyùn*, published in 601 CE, was one of the most influential rhyming dictionaries. Rhyming writing was an extremely important part of the *kēyŭ* – and played an important role in standardizing pronunciation. The *Qièyùn* is our best source for understanding the pronunciation of its time. It was repeatedly revised, annotated, and republished. Though there are disagreements about certain details, the consensus is that the standard of pronunciation it contains was the official standard, and that it is based on the Zhongzhou dialect, possibly with some features from other dialects, especially that of Nanjing.
-
-  [^10]: The term “Mandarin” has several meanings. It was first used to refer to the standard language of educated people and officials in the Ming and Qing dynasties. This use of the term originates from European missionaries’ use of the term to translate the native Chinese term *guānhuà* ‘language of the officials, or mandarins.’ Writing in the mid-16th century, missionary Alessandro Vilignano wrote: 
-
->“The Chinese have different languages in different provinces, to such an extent that they cannot understand each other…[they]: also have another language which is like a universal and common language; **this is the official language of the mandarins and of the court**; it is among them like Latin among ourselves…Two of our fathers have been learning this mandarin language… (emphasis added).
-
-In linguistic and dialectological circles, Mandarin is used to refer to northern dialects called *bĕifāng fāngyán* or *guānhuà fāngyán*. In popular usage, however, Mandarin refers to modern standard Chinese, or *pŭtо̄nghuà*(Coblin 2000: 537).
-
-  [^11]: Beijing pronunciation was known as *bĕiyīn* ‘Northern pronunciation’, while the standard pronuniciation went by a variety of names such as *guānhuà* ‘Mandarin’, *zhèngyīn* ‘standard pronunciaton’, *Hànyīn* ‘Han pronunciation’, *guānyīn* ‘official pronunciation’, or even *tо̄ngyīn* ‘general pronunciation’.
-
-  [^12]: Quoted in Coblin 1997: 285
-
-  [^13]: In *Modern Chinese: History and Sociolinguistics*, Ping Chen describes it as “more of an attitudinal stance on what was supposed to be the standard language in polite society…rather than a reference to a specific speech form that was clearly defined, effectively promoted, conscientiously learned, and extensively used.”
-
-  [^14]: Chen (2004: 14), from Ni Haishu (1959) *Qīngmò Hànyŭ pīnyīn yùndòng biānniánshĭ*.
-
-  [^15]: Ramsey 1987: 13 
-
-  [^16]: More specifically, the conclusions of the conference were that: 
-
-1.	A *Guóyŭ Diàochá Zо̆nghuì* ‘General Committee for the Survey of the National Language’ will be set up in Beijing, with branches set up in all provinces. It will conduct a survey of dialects with respect to vocabulary, grammar, phonology, and other related aspects.
-2.	On the basis of the results of the survey in all provinces, the General Committee is to decide on the standards of *guóyŭ* by selecting what is elegant, correct, and popular with regard to vocabulary, grammar, and phonology. Textbooks and dictionaries of *guóyŭ* will be compiled in conformity with the standard.
-3. A standard of pronunciation will be determined. It will be mainly based upon the Beijing dialect. The *rù* ‘entering’ tone, however, should be preserved. The vocabulary and grammar should be mainly based upon *guānhuà*, and meet the criteria of being correct, elegant, and logical.
-4.	A standard phonetic alphabet should be decided on.
-5.	*Guóyŭ* Instruction Schools will be set up by the Ministry of Education, which will train students from provinces. Graduates will return to their respective provinces to train more teachers. Teaching staff in schools and colleges who cannot speak *guóyŭ* must receive training in these schools. Apart from being taught as a specific subject, *guóyŭ* should gradually become the medium of instruction for all subjects
-
-(Chen 2004: 15-16, from Jinxi Li (1935), *Hànzì gémìngjen qiánjìn de yì tiáo dàdào* and Shidu Fang (1969) *Wŭshí nián lái Zhо̄ngguó Guóyŭ yùndòng shĭ*))
-
-  [^17]: Ramsey 1987: 7
-
-  [^18]: Ramsey 1987: 7
-
-  [^19]: More specifically, there were three major differences between the *guóyŭ* and the standard Beijing dialect at the time. These differences were (Chen 2004: 18): 
-
-1.	Three voiced consonant initials \[v\]:, \[n\]:, and \[ŋ\]:, are retained for some characters, although they have either disappeared or become allophonic with other sounds in the Beijing dialect.
-2.	Palatal initials before high front vowels in the Beijing dialect evolved from two distinct sources from Medieval Chinese, dental sibilants and velars. The former are called *jiān* ‘sharp’ initials, and the latter *tuán* ‘round’ initials. It was stipulated in the old national pronunciation that the initials that are derived from the sharp sounds should retain the previous pronunciation as dental sibilants, while those derived from the round sounds should become palatals. For example, in spite of the fact that there is no difference in pronunciation in the Beijing dialect between the corresponding characters in the two groups, *jīng* ‘refined’, *qīng* ‘blue, green’ and *xīng* ‘star’ are annotated differently in the old national pronunciation from *jīng* ‘warp’, *qīng* ‘light’, and *xīng* ‘mood’ (\[tsiŋ\]: \[tshiŋ\]: and \[siŋ\]: vs. \[tçiŋ\]: \[tçhiŋ\]: and \[çiŋ\]:) as the palatal initials in the first three words were derived from dental sibilants in Medieval Chinese. Although the *jiān/tuán* distinction is retained in some dialects, the two series of initials have completely merged in the Beijing dialect.
-3.	The *rù* tone is treated as a toneme, which is supposed to have distinct phonetic manifestations, although characters belonging to this tonal group in Medieval Chinese no longer have any distinctive phonetic features in the Beijing dialect of the twentieth century.
-
-
-  [^20]: Calls for complete abandonment of the character system in favor of Romanization were surprisingly common, as Simpson (2016: 94) points out. Even though the writing system had been such a key link among the different Chinese dialect groups and was “a highly visible symbol of the Chinese throughout their long imperial history”, it was actually criticized heavily for being “backward”, “clumsy”, “abominable”, and so on. This path was politically viable because at the time China was taking a utilitarian approach to progress; more importantly, though, was the fact that a long, shared cultural history *already existed*, as opposed to in instances (such as Italian) where a national language is used to unify peoples who do not share such cultural histories. In the end, Romanization never occurred due to internal (and later external, in the from of Japanese troops) turmoil. When the drive to modernize Chinese returned in the 1950s, support for Romanization was replaced with support for simplification of the script instead.
-
-  [^21]: Ramsey 1987: 9
-
-  [^22]: This decision came with the publication of a new dictionary featuring 12,219 characters and variants and a brand new phonetic system for clarifying their pronunciation called the *Glossary of Frequently Used Characters in National Pronunciation”* (*Guóyīn chángyòng zìhuì*).
-
-  [^23]: For a large swath of the population – the native speakers of non-Mandarin dialects – however, the standard written language would remain distant from their everyday, spoken dialects.
-
-  [^24]: Simpson 2016: 93
-
-  [^25]: Between 1956 and 1964 over 2,500 simplified characters were introduced.
-
-  [^26]: Originally, *pŭtо̄nghuà* had generally referred to substandard language, and in the 1930s had been used to identify dialects that diverged from the standard. At the conference in 1955 it was reassigned the meaning of “common”, thus making it essentially a synonym of *guóyŭ*. The idea was to avoid the word *guóyŭ*, as it seemed possibly too Han-centric to be used as a national standard, given that there were more than fifty officially recognized ethnic groups in China who speak over eighty different languages (Chen 2004: 25).
-
-  [^27]: Simpson 96
-
-  [^28]: According to the symposium, Putonghua was defined by its phonology, lexicon, and grammar as follows (Chen 2004: 24):
-
-> *Pŭtо̄nghuà* is the standard form of Modern Chinese with the Beijing phonological system as its norm of pronunciation, and Northern dialects as its base dialect, and looking to exemplary modern works in *báihuà* ‘vernacular literary language’ for its grammatical norms. 
-
-  [^29]: In fact, the goal of the committee was less to work out common pronunciations, as there was not much to discuss, and more to deal with borderline cases.
-
-  [^30]: Of no surprise is the fact that Putonghua ability is significantly higher in Mandarin-speaking areas, given the similarity of Mandarin dialects and Putonghua. In non-Mandarin-speaking areas, Putonghua ability indicated education. For example, in a study conducted in mountainous regions where Southern Min dialects are spoken, all of those who have any proficiency in Putonghua have received formal education, while those who are only able to understand it but not speak it have received little to no education (Chen 2004: 30).
-
-  [^31]: Simpson 2016: 97
-
-  [^32]: Chen 2004: 52
-
-  [^33]: Siu-Pong and Sze-Wing 2016: 20. 
-
-  [^34]: Ramsey 1987: 98
-
-  [^35]: This vernacular writing continues unabated in Hong Kong and overseas, especially in the United States, where some 86% or so of Chinese Americans trace their origins back to Guangdong. As Chen (2004: 51) puts it, overseas, “to speak Chinese more often than not means the ability to speak Cantonese, rather than Northern Mandarin or other dialects.” With regards to Cantonese writing in mainland China, as well as the writing of other dialects, one of the major concerns with the suggestion to Romanize the script was that this would enable dialectal writing, something that since the Qing dynasty had been seen as a threat to unity (Simpson year: 96). 
-
-  [^36]: Data from Ethnologue:
-
->Mandarin (2015): https://www.ethnologue.com/language/cmn
-
->Wu (2015): https://www.ethnologue.com/language/wuu
-
->Xiang (2013): https://www.ethnologue.com/language/hsn
-
->Gan (2015): https://www.ethnologue.com/language/gan
-
->Hakka (2007): https://www.ethnologue.com/language/hak
-
->Min (2015): https://www.ethnologue.com/language/nan
-
->Yue (2007): https://www.ethnologue.com/language/yue
-
-
-  [^37]: Mair 1991: 7
-
-  [^38]: See Tang and van Heuven (2007) for a quantititave research on the mutual intelligibility of the different varieties of Chinese.
-
-
-  [^39]: Written Chinese has always been either *wényán*, which was based upon Old Chinese, or Mandarin. That means that anyone educated in writing could only have written in either of those two language, but *never in their own topolect.* Thus they (and the person with whom they are communicating) would have to know one of those two languages in order to communicate with someone else speaking a mutually unintelligible topolect. In other words, it is a myth that all Chinese dialects share the same written language. Furthermore, in the case of different dialects being written in Romanized form or other systems, the differences between the dialects would make it impossible for a reader of one dialect to understand what was written in another. 
-
-  [^40]: Ramsey (1987: 16) comments that the general method for a speaker of one variety of Chinese to learn another variety is not really a formal process. Rather, it is just “picking up” the new variety through contact with others and through learning a few general rules about pronunciations that are different from what they are used to.
-
-  [^41]: Ramsey 1987: 16. Mair (1991: 11) argues, however, that the term “Chinese language” – usually referring to (Modern Standard) Mandarin – as such is problematic, as *the Chinese people do not call their own language “Chinese.”* When Indians call their language Hindi, we refer to the language as Hindi, and so too we should follow the Chinese in calling the language Mandarin, which actually is an accurate translation of the term it is supposed to represent, *guānhuà.*
 
 ---
 
@@ -346,3 +223,108 @@ Siu-pong, Cheng, and Tang Sze-Wing. 2016. “Cantonese.” *The Routledge Encycl
 Tang, Chaoju and Vincent J. Van Heuven. 2007. "Predicting mutual intelligibility in Chinese dialects from subjective and objective linguistic similarity." *Interlingüística* 17, pp. 1019-1028.
 
 Zhou, Minglang. 2003. *Multilingualism in China: The Politics of Writing Reforms for Minority Languages 1949-2002.*
+
+[^1]: The full story of the proceedings of the 1913 Conference on Unification of Pronunciation is told beautifully by S. Robert Ramsey (1987) in *The Languages of China.*
+
+  [^2]: Chen 2004: 7. The written form of this lingua franca was known as *jiăgŭwén.*
+
+  [^3]: In the *Analects*, Confucius refers to *yăyán* as “elegant speech”, which is now agreed by scholars to refer to the standard spoken Chinese of the time (Ping 2004: 7).
+
+  [^4]: In a way, the prestige of the Zhangzhou dialect was self-reinforcing. In the north, recently-formed non-Han states were quickly assimilating to Chinese culture and adopting the language due to its perceived prestige; in the south, elites from Luoyang moved to (what is now) Nanjing in a major migration during the Wei Jin period (220 – 589 CE) when Jin Yuandi (317-22 CE) brought his royal court to what is now Nanjing, and in so doing brought their dialect – and with it the prestige - and in this way spread it south of the Yangtze river. 
+
+  [^5]: Such governmental policies include the order during the Qin dynasty for 500,000 military colonists to fill up newly-conquered territory (Ramsey 1987: 31)
+
+  [^6]: All dialects of Chinese ultimately trace back to northern China geographically and middle Chinese linguistically, but in the southern dialects we find many archaic features that no longer exist in northern dialects. The more geographically-isolated southern Chinese communities spoke (and continue to speak) more conservative dialects, and we can find many traces of pre-Han south China in these dialects. For example, the further south one travels, the more tones one finds, probably as a result of tonal languages spoken before the Han arrived. 
+ 
+    A more interesting example is given in Ramsey (1987: 36ff). In Standard Mandarin, *gо̄ngjī* ‘rooster’ contains two parts: *gо̄ng* ‘male’ + *jī* ‘chicken’. This is the usual pattern: a modifier comes before the word that it modifies. However, in southern dialects we often find the opposite. In Cantonese, for example, the word for rooster is *kaikong*, composed of *kai* ‘chicken’ + *kong* ‘male’. The elements of the words are the same, but the order of composition is reversed; this same phenomenon can be found in many other words. What is striking about this is that the southern dialects appear to reveal a Tai language family substrate, where this pattern of word construction is the norm. Ramsey presents other interesting examples of the possible effects of non-Sinitic substrata on southern dialects but concludes with the warning that we must remember that “the Southern dialects are not ‘mixed languages,’ they are Chinese”. 
+
+  [^7]: Emperor Shi Huang Di’s (‘First Emperor’) is famous for the standardization of Chinese characters in an effort to introduce “common laws, weights and measures.” The standardized system was based off the highly-conservative standard of the far-western state of Qin. In the subsequent Han empire this system was codified in a dictionary, the *Shuо̄wēn Jiĕzì*. This system has been the basis of *kăishū*, the writing system, ever since (Ostler 2006: 138).
+
+  [^8]: After the Han period, during the Eastern Jin (317 – 420 CE) as well as Northern and Southern dynasties (420 – 589 CE), a creolization occurred between Chinese and the Turkic, Mongolic, and Manchu language speakers who dominated the heartland of China. Significant changes included (but were not limited to) relexification, morphological restructuring, and phonological shifts (Mair 2010a: 23).
+
+  [^9]: The *Qièyùn*, published in 601 CE, was one of the most influential rhyming dictionaries. Rhyming writing was an extremely important part of the *kēyŭ* – and played an important role in standardizing pronunciation. The *Qièyùn* is our best source for understanding the pronunciation of its time. It was repeatedly revised, annotated, and republished. Though there are disagreements about certain details, the consensus is that the standard of pronunciation it contains was the official standard, and that it is based on the Zhongzhou dialect, possibly with some features from other dialects, especially that of Nanjing.
+
+  [^10]: The term “Mandarin” has several meanings. It was first used to refer to the standard language of educated people and officials in the Ming and Qing dynasties. This use of the term originates from European missionaries’ use of the term to translate the native Chinese term *guānhuà* ‘language of the officials, or mandarins.’ Writing in the mid-16th century, missionary Alessandro Vilignano wrote (emphasis added): 
+    >The Chinese have different languages in different provinces, to such an extent that they cannot understand each other…[they]: also have another language which is like a universal and common language; **this is the official language of the mandarins and of the court**; it is among them like Latin among ourselves…Two of our fathers have been learning this mandarin language… 
+    
+    In linguistic and dialectological circles, Mandarin is used to refer to northern dialects called *bĕifāng fāngyán* or *guānhuà fāngyán*. In popular usage, however, Mandarin refers to modern standard Chinese, or *pŭtо̄nghuà*(Coblin 2000: 537).
+
+  [^11]: Beijing pronunciation was known as *bĕiyīn* ‘Northern pronunciation’, while the standard pronuniciation went by a variety of names such as *guānhuà* ‘Mandarin’, *zhèngyīn* ‘standard pronunciaton’, *Hànyīn* ‘Han pronunciation’, *guānyīn* ‘official pronunciation’, or even *tо̄ngyīn* ‘general pronunciation’.
+
+  [^12]: Quoted in Coblin 1997: 285
+
+  [^13]: In *Modern Chinese: History and Sociolinguistics*, Ping Chen describes it as “more of an attitudinal stance on what was supposed to be the standard language in polite society…rather than a reference to a specific speech form that was clearly defined, effectively promoted, conscientiously learned, and extensively used.”
+
+  [^14]: Chen (2004: 14), from Ni Haishu (1959) *Qīngmò Hànyŭ pīnyīn yùndòng biānniánshĭ*.
+
+  [^15]: Ramsey 1987: 13 
+
+  [^16]: More specifically, the conclusions of the conference were that: 
+    1. A *Guóyŭ Diàochá Zо̆nghuì* ‘General Committee for the Survey of the National Language’ will be set up in Beijing, with branches set up in all provinces. It will conduct a survey of dialects with respect to vocabulary, grammar, phonology, and other related aspects.
+    2. On the basis of the results of the survey in all provinces, the General Committee is to decide on the standards of *guóyŭ* by selecting what is elegant, correct, and popular with regard to vocabulary, grammar, and phonology. Textbooks and dictionaries of *guóyŭ* will be compiled in conformity with the standard.
+    3. A standard of pronunciation will be determined. It will be mainly based upon the Beijing dialect. The *rù* ‘entering’ tone, however, should be preserved. The vocabulary and grammar should be mainly based upon *guānhuà*, and meet the criteria of being correct, elegant, and logical.
+    4. A standard phonetic alphabet should be decided on.
+    5. *Guóyŭ* Instruction Schools will be set up by the Ministry of Education, which will train students from provinces. Graduates will return to their respective provinces to train more teachers. Teaching staff in schools and colleges who cannot speak *guóyŭ* must receive training in these schools. Apart from being taught as a specific subject, *guóyŭ* should gradually become the medium of instruction for all subjects
+
+    (Chen 2004: 15-16, from Jinxi Li (1935), *Hànzì gémìngjen qiánjìn de yì tiáo dàdào* and Shidu Fang (1969) *Wŭshí nián lái Zhо̄ngguó Guóyŭ yùndòng shĭ*))
+
+  [^17]: Ramsey 1987: 7
+
+  [^18]: Ramsey 1987: 7
+
+  [^19]: More specifically, there were three major differences between the *guóyŭ* and the standard Beijing dialect at the time. These differences were (Chen 2004: 18): 
+    1. Three voiced consonant initials \[v\]:, \[n\]:, and \[ŋ\]:, are retained for some characters, although they have either disappeared or become allophonic with other sounds in the Beijing dialect.
+    2. Palatal initials before high front vowels in the Beijing dialect evolved from two distinct sources from Medieval Chinese, dental sibilants and velars. The former are called *jiān* ‘sharp’ initials, and the latter *tuán* ‘round’ initials. It was stipulated in the old national pronunciation that the initials that are derived from the sharp sounds should retain the previous pronunciation as dental sibilants, while those derived from the round sounds should become palatals. For example, in spite of the fact that there is no difference in pronunciation in the Beijing dialect between the corresponding characters in the two groups, *jīng* ‘refined’, *qīng* ‘blue, green’ and *xīng* ‘star’ are annotated differently in the old national pronunciation from *jīng* ‘warp’, *qīng* ‘light’, and *xīng* ‘mood’ (\[tsiŋ\]: \[tshiŋ\]: and \[siŋ\]: vs. \[tçiŋ\]: \[tçhiŋ\]: and \[çiŋ\]:) as the palatal initials in the first three words were derived from dental sibilants in Medieval Chinese. Although the *jiān/tuán* distinction is retained in some dialects, the two series of initials have completely merged in the Beijing dialect.
+    3. The *rù* tone is treated as a toneme, which is supposed to have distinct phonetic manifestations, although characters belonging to this tonal group in Medieval Chinese no longer have any distinctive phonetic features in the Beijing dialect of the twentieth century.
+  [^20]: Calls for complete abandonment of the character system in favor of Romanization were surprisingly common, as Simpson (2016: 94) points out. Even though the writing system had been such a key link among the different Chinese dialect groups and was “a highly visible symbol of the Chinese throughout their long imperial history”, it was actually criticized heavily for being “backward”, “clumsy”, “abominable”, and so on. This path was politically viable because at the time China was taking a utilitarian approach to progress; more importantly, though, was the fact that a long, shared cultural history *already existed*, as opposed to in instances (such as Italian) where a national language is used to unify peoples who do not share such cultural histories. In the end, Romanization never occurred due to internal (and later external, in the from of Japanese troops) turmoil. When the drive to modernize Chinese returned in the 1950s, support for Romanization was replaced with support for simplification of the script instead.
+
+  [^21]: Ramsey 1987: 9
+
+  [^22]: This decision came with the publication of a new dictionary featuring 12,219 characters and variants and a brand new phonetic system for clarifying their pronunciation called the *Glossary of Frequently Used Characters in National Pronunciation”* (*Guóyīn chángyòng zìhuì*).
+
+  [^23]: For a large swath of the population – the native speakers of non-Mandarin dialects – however, the standard written language would remain distant from their everyday, spoken dialects.
+
+  [^24]: Simpson 2016: 93
+
+  [^25]: Between 1956 and 1964 over 2,500 simplified characters were introduced.
+
+  [^26]: Originally, *pŭtо̄nghuà* had generally referred to substandard language, and in the 1930s had been used to identify dialects that diverged from the standard. At the conference in 1955 it was reassigned the meaning of “common”, thus making it essentially a synonym of *guóyŭ*. The idea was to avoid the word *guóyŭ*, as it seemed possibly too Han-centric to be used as a national standard, given that there were more than fifty officially recognized ethnic groups in China who speak over eighty different languages (Chen 2004: 25).
+
+  [^27]: Simpson 96
+
+  [^28]: According to the symposium, Putonghua was defined by its phonology, lexicon, and grammar as follows (Chen 2004: 24): "*Pŭtо̄nghuà* is the standard form of Modern Chinese with the Beijing phonological system as its norm of pronunciation, and Northern dialects as its base dialect, and looking to exemplary modern works in *báihuà* ‘vernacular literary language’ for its grammatical norms."
+
+  [^29]: In fact, the goal of the committee was less to work out common pronunciations, as there was not much to discuss, and more to deal with borderline cases.
+
+  [^30]: Of no surprise is the fact that Putonghua ability is significantly higher in Mandarin-speaking areas, given the similarity of Mandarin dialects and Putonghua. In non-Mandarin-speaking areas, Putonghua ability indicated education. For example, in a study conducted in mountainous regions where Southern Min dialects are spoken, all of those who have any proficiency in Putonghua have received formal education, while those who are only able to understand it but not speak it have received little to no education (Chen 2004: 30).
+
+  [^31]: Simpson 2016: 97
+
+  [^32]: Chen 2004: 52
+
+  [^33]: Siu-Pong and Sze-Wing 2016: 20. 
+
+  [^34]: Ramsey 1987: 98
+
+  [^35]: This vernacular writing continues unabated in Hong Kong and overseas, especially in the United States, where some 86% or so of Chinese Americans trace their origins back to Guangdong. As Chen (2004: 51) puts it, overseas, “to speak Chinese more often than not means the ability to speak Cantonese, rather than Northern Mandarin or other dialects.” With regards to Cantonese writing in mainland China, as well as the writing of other dialects, one of the major concerns with the suggestion to Romanize the script was that this would enable dialectal writing, something that since the Qing dynasty had been seen as a threat to unity (Simpson year: 96). 
+
+  [^36]: Data from Ethnologue:
+    >Mandarin (2015): https://www.ethnologue.com/language/cmn
+Wu (2015): https://www.ethnologue.com/language/wuu
+Xiang (2013): https://www.ethnologue.com/language/hsn
+Gan (2015): https://www.ethnologue.com/language/gan
+Hakka (2007): https://www.ethnologue.com/language/hak
+Min (2015): https://www.ethnologue.com/language/nan
+Yue (2007): https://www.ethnologue.com/language/yue
+
+
+  [^37]: Mair 1991: 7
+
+  [^38]: See Tang and van Heuven (2007) for a quantititave research on the mutual intelligibility of the different varieties of Chinese.
+
+
+  [^39]: Written Chinese has always been either *wényán*, which was based upon Old Chinese, or Mandarin. That means that anyone educated in writing could only have written in either of those two language, but *never in their own topolect.* Thus they (and the person with whom they are communicating) would have to know one of those two languages in order to communicate with someone else speaking a mutually unintelligible topolect. In other words, it is a myth that all Chinese dialects share the same written language. Furthermore, in the case of different dialects being written in Romanized form or other systems, the differences between the dialects would make it impossible for a reader of one dialect to understand what was written in another. 
+
+  [^40]: Ramsey (1987: 16) comments that the general method for a speaker of one variety of Chinese to learn another variety is not really a formal process. Rather, it is just “picking up” the new variety through contact with others and through learning a few general rules about pronunciations that are different from what they are used to.
+
+  [^41]: Ramsey 1987: 16. Mair (1991: 11) argues, however, that the term “Chinese language” – usually referring to (Modern Standard) Mandarin – as such is problematic, as *the Chinese people do not call their own language “Chinese.”* When Indians call their language Hindi, we refer to the language as Hindi, and so too we should follow the Chinese in calling the language Mandarin, which actually is an accurate translation of the term it is supposed to represent, *guānhuà.*
