@@ -141,9 +141,6 @@ Now, let’s take a look at our second question: **What exactly do we mean by th
 
 Chinese is traditionally divided into seven major dialects, with Mandarin being the one northern dialect and the other six being southern dialects:
 
-
-*Map 1: Geographical distribution of varieties of Chinese*
-
 | |Variety| English| Number of Speakers[^36] |
 |---|------------- |-------------|-------------|
 |Northern|*Guānhuà*     | Mandarin|1,074,000,000| 
