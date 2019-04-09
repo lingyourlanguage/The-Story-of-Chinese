@@ -176,7 +176,7 @@ There are endless avenues of interest that could have been pursued in more detai
 
 *This is the first article in a series on the gray area between languages and dialect. Stay tuned for the next part in the series, where we take a look at the complicated relationship between Hindi and Urdu.*
 
-Questions? Comments? Send them to lingyourlanguage@gmail.com. We look forward to your feedback!*
+*Questions? Comments? Send them to lingyourlanguage@gmail.com. We look forward to your feedback!*
 
 
 
@@ -256,8 +256,7 @@ Zhou, Minglang. 2003. *Multilingualism in China: The Politics of Writing Reforms
   [^17]: See Notes 18-20 for the specific conclusions (From Chen 2004: 15-16, from Jinxi Li (1935), *Hànzì gémìngjen qiánjìn de yì tiáo dàdào* and Shidu Fang (1969) *Wŭshí nián lái Zhо̄ngguó Guóyŭ yùndòng shĭ*).
  
  [^18]: 1: A *Guóyŭ Diàochá Zо̆nghuì* ‘General Committee for the Survey of the National Language’ will be set up in Beijing, with branches set up in all provinces. It will conduct a survey of dialects with respect to vocabulary, grammar, phonology, and other related aspects.
-
-    2: On the basis of the results of the survey in all provinces, the General Committee is to decide on the standards of *guóyŭ* by selecting what is elegant, correct, and popular with regard to vocabulary, grammar, and phonology. Textbooks and dictionaries of *guóyŭ* will be compiled in conformity with the standard.
+ 2: On the basis of the results of the survey in all provinces, the General Committee is to decide on the standards of *guóyŭ* by selecting what is elegant, correct, and popular with regard to vocabulary, grammar, and phonology. Textbooks and dictionaries of *guóyŭ* will be compiled in conformity with the standard.
  
  [^19]: 3: A standard of pronunciation will be determined. It will be mainly based upon the Beijing dialect. The *rù* ‘entering’ tone, however, should be preserved. The vocabulary and grammar should be mainly based upon *guānhuà*, and meet the criteria of being correct, elegant, and logical.
     4: A standard phonetic alphabet should be decided on.
