@@ -218,15 +218,13 @@ In linguistic and dialectological circles, Mandarin is used to refer to northern
 
   [^15]: Ramsey 1987: 13 
 
-  [^16]: More specifically, the conclusions of the conference were that: 
-
-1.	A *Guóyŭ Diàochá Zо̆nghuì* ‘General Committee for the Survey of the National Language’ will be set up in Beijing, with branches set up in all provinces. It will conduct a survey of dialects with respect to vocabulary, grammar, phonology, and other related aspects.
+  [^16]: More specifically, the conclusions of the conference were (Chen 2004: 15-16, from Jinxi Li (1935), *Hànzì gémìngjen qiánjìn de yì tiáo dàdào* and Shidu Fang (1969) *Wŭshí nián lái Zhо̄ngguó Guóyŭ yùndòng shĭ*): 
+1. A *Guóyŭ Diàochá Zо̆nghuì* ‘General Committee for the Survey of the National Language’ will be set up in Beijing, with branches set up in all provinces. It will conduct a survey of dialects with respect to vocabulary, grammar, phonology, and other related aspects.
 2.	On the basis of the results of the survey in all provinces, the General Committee is to decide on the standards of *guóyŭ* by selecting what is elegant, correct, and popular with regard to vocabulary, grammar, and phonology. Textbooks and dictionaries of *guóyŭ* will be compiled in conformity with the standard.
 3. A standard of pronunciation will be determined. It will be mainly based upon the Beijing dialect. The *rù* ‘entering’ tone, however, should be preserved. The vocabulary and grammar should be mainly based upon *guānhuà*, and meet the criteria of being correct, elegant, and logical.
 4.	A standard phonetic alphabet should be decided on.
 5.	*Guóyŭ* Instruction Schools will be set up by the Ministry of Education, which will train students from provinces. Graduates will return to their respective provinces to train more teachers. Teaching staff in schools and colleges who cannot speak *guóyŭ* must receive training in these schools. Apart from being taught as a specific subject, *guóyŭ* should gradually become the medium of instruction for all subjects
 
-(Chen 2004: 15-16, from Jinxi Li (1935), *Hànzì gémìngjen qiánjìn de yì tiáo dàdào* and Shidu Fang (1969) *Wŭshí nián lái Zhо̄ngguó Guóyŭ yùndòng shĭ*))
 
   [^17]: Ramsey 1987: 7
 
