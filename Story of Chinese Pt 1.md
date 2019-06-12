@@ -5,7 +5,7 @@ By Raphael Fabisiewicz
 
 ***
 
-*In Part 1 of this series on the fascinating story of how the Beijing dialect of Mandarin came to be known as "Chinese", or, in China, Putonghua, we weave our way from the origins of Chinese civilization and the first dynasties a few thousand years ago through up to the founding of the Republic of China in 1912. In Part 2, we will take a look at "Chinese" in the 20th century and today, and in Part 3 we will return to our main questions: is Chinese one language? What do we mean when we say the "Chinese language"?*
+*In Part 1 of this series on the fascinating story of how the Beijing dialect of Mandarin came to be known as "Chinese", or, in China, Putonghua, we weave our way from the origins of Chinese civilization and the first dynasties a few thousand years ago through up to the founding of the Republic of China in 1912. In [Part 2][https://lingyourlanguage.com/?article=4], we will take a look at "Chinese" in the 20th century and today, and in [Part 3][https://lingyourlanguage.com/?article=3] we will return to our main questions: is Chinese one language? What do we mean when we say the "Chinese language"?*
 
 ***
 
