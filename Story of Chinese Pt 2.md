@@ -5,7 +5,7 @@ By Raphael Fabisiewicz
 
 ***
 
-*In Part 2, we take a closer look at the development of the "Chinese language" in the 20th century. In Part 1 of this series, we started at the origins of Chinese civilization and the first dynasties a few thousand years ago and worked our way up to the founding of the Republic of China in 1912. In Part 3 we will return to our main questions: is Chinese one language? What do we mean when we say the "Chinese language"?*
+*In Part 2, we take a closer look at the development of the "Chinese language" in the 20th century. In [Part 1](https://lingyourlanguage.com/?article=5) of this series, we started at the origins of Chinese civilization and the first dynasties a few thousand years ago and worked our way up to the founding of the Republic of China in 1912. In [Part 3](https://lingyourlanguage.com/?article=3) we will return to our main questions: is Chinese one language? What do we mean when we say the "Chinese language"?*
 
 ***
 
