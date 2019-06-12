@@ -5,7 +5,7 @@ By Raphael Fabisiewicz
 
 ***
 
-*In the final part of this series on the history of the "Chinese language", we return to ourguiding questions from Part 1: is Chinese one language? What do we mean when we say the "Chinese language"? In Part 1, we saw how the Beijing dialect of Mandarin came to be known as "Chinese", and in Part 2 we saw the evolution of Chinese through the 20th century up to the present day.*
+*In the final part of this series on the history of the "Chinese language", we return to ourguiding questions from Part 1: is Chinese one language? What do we mean when we say the "Chinese language"? In [Part 1](https://lingyourlanguage.com/?article=5), we saw how the Beijing dialect of Mandarin came to be known as "Chinese", and in [Part 2](https://lingyourlanguage.com/?article=4) we saw the evolution of Chinese through the 20th century up to the present day.*
 
 ***
 
